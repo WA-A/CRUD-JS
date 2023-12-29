@@ -1,5 +1,5 @@
 # CURD
-It is a site for creating and adding a course according to the information in the form, 
+It is a site for creating and adding a course according to the information in the form and validation , 
 
 displaying the added course/courses, 
 
