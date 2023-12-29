@@ -6,5 +6,4 @@ displaying the added course/courses,
 deleting a specific course according to the id,
 
 or clear,
-
 and searching for a specific course according to id .
